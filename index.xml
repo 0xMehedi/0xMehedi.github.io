@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mehedi Hasan</title><link>https://0xMehedi.github.io/</link><description>Recent content on Mehedi Hasan</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 27 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://0xMehedi.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>12 Things to Do Right After Installing Fedora Workstation 38</title><link>https://0xMehedi.github.io/p/2023/08/27/12-things-to-do-right-after-installing-fedora-workstation-38/</link><pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate><guid>https://0xMehedi.github.io/p/2023/08/27/12-things-to-do-right-after-installing-fedora-workstation-38/</guid><description>&lt;img src="https://0xMehedi.github.io/p/2023/08/27/12-things-to-do-right-after-installing-fedora-workstation-38/fedora.jpg" alt="Featured image of post 12 Things to Do Right After Installing Fedora Workstation 38" />&lt;!-- raw HTML omitted -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mehedi Hasan</title><link>https://0xMehedi.github.io/</link><description>Recent content on Mehedi Hasan</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 27 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://0xMehedi.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>12 Things to Do Right After Installing Fedora Workstation 38</title><link>https://0xMehedi.github.io/p/2023/08/27/12-things-to-do-right-after-installing-fedora-workstation-38/</link><pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate><guid>https://0xMehedi.github.io/p/2023/08/27/12-things-to-do-right-after-installing-fedora-workstation-38/</guid><description>&lt;img src="https://0xMehedi.github.io/p/2023/08/27/12-things-to-do-right-after-installing-fedora-workstation-38/fedora.jpg" alt="Featured image of post 12 Things to Do Right After Installing Fedora Workstation 38" />&lt;!-- cspell:words Mehedi Hasan allowerasing appmenu devel flathub flatpak freeworld groupupdate gsettings gstreamer libav libdvdcss libva noarch nvdec nvenc openh264 rpmfusion setop touchpad upstreams vaapi vdpau -->
+&lt;!-- markdownlint-disable MD033 -->
 &lt;p>Fedora Workstation comes with vanilla GNOME as its desktop environment, which is, in my opinion, a bit too bare-bones for everyday tasks.
 A few actions can be taken to improve this experience.
 This article will examine what to do following the installation of Fedora Workstation 38.
@@ -13,7 +14,7 @@ To assign a keyboard shortcut to open the terminal of your choice,&lt;/p>
 &lt;li>In the Name field, enter &lt;strong>GNOME Terminal&lt;/strong> as the name.&lt;/li>
 &lt;li>In the Command field, enter the command &lt;code>gnome-terminal&lt;/code>.&lt;/li>
 &lt;li>In the Shortcut field, press the key combination that you want to use to launch GNOME Terminal.
-For example, &lt;code>Ctrl + Alt + T&lt;/code>.&lt;/li>
+For example, &lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>Alt&lt;/kbd> + &lt;kbd>T&lt;/kbd>.&lt;/li>
 &lt;li>Click the &lt;strong>Add&lt;/strong> button.&lt;/li>
 &lt;/ul>
 &lt;h3 id="change-hostname">Change Hostname&lt;/h3>
@@ -272,7 +273,8 @@ Run the following command to install it:&lt;/p>
 &lt;/div>
 &lt;/div>&lt;h2 id="conclusion">Conclusion&lt;/h2>
 &lt;p>I hope this gives you a good starting point for getting started with Fedora 38.
-If you have any questions, please feel free to ask in the comments below.&lt;/p></description></item><item><title>Things to Do After Installing Ubuntu 22.04</title><link>https://0xMehedi.github.io/p/2022/09/18/things-to-do-after-installing-ubuntu-22.04/</link><pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate><guid>https://0xMehedi.github.io/p/2022/09/18/things-to-do-after-installing-ubuntu-22.04/</guid><description>&lt;img src="https://0xMehedi.github.io/p/2022/09/18/things-to-do-after-installing-ubuntu-22.04/ubuntu-22.04.jpg" alt="Featured image of post Things to Do After Installing Ubuntu 22.04" />&lt;!-- raw HTML omitted -->
+If you have any questions, please feel free to ask in the comments below.&lt;/p></description></item><item><title>Things to Do After Installing Ubuntu 22.04</title><link>https://0xMehedi.github.io/p/2022/09/18/things-to-do-after-installing-ubuntu-22.04/</link><pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate><guid>https://0xMehedi.github.io/p/2022/09/18/things-to-do-after-installing-ubuntu-22.04/</guid><description>&lt;img src="https://0xMehedi.github.io/p/2022/09/18/things-to-do-after-installing-ubuntu-22.04/ubuntu-22.04.jpg" alt="Featured image of post Things to Do After Installing Ubuntu 22.04" />&lt;!-- cspell:words Mehedi Hasan apport dconf dpkg gufw libdvdcss libdvd-pkg libfuse2 rhythmbox touchpad userspace zram -->
+&lt;!-- markdownlint-disable MD033 -->
 &lt;p>Ubuntu is well configured out of the box.
 But there are a few things you can do to enhance your experience.
 In this article we will look at what to do after installing the latest version of Ubuntu.&lt;/p>
@@ -280,7 +282,7 @@ In this article we will look at what to do after installing the latest version o
 &lt;h3 id="update-the-system">Update the System&lt;/h3>
 &lt;p>After installing Ubuntu, you should update it as soon as possible.
 Linux operates on a local database of available packages, which must be synced before you can install any software.&lt;/p>
-&lt;p>To upgrade your system, open the terminal by pressing &lt;code>Ctrl + Alt + T&lt;/code> and execute the following commands:&lt;/p>
+&lt;p>To upgrade your system, open the terminal by pressing &lt;kbd>Ctrl&lt;/kbd> + &lt;kbd>Alt&lt;/kbd> + &lt;kbd>T&lt;/kbd> and execute the following commands:&lt;/p>
 &lt;div class="highlight">&lt;div class="chroma">
 &lt;table class="lntable">&lt;tr>&lt;td class="lntd">
 &lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
@@ -483,7 +485,7 @@ GNOME Tweaks offers options to install additional themes, adjust fonts, change t
 &lt;/div>&lt;h2 id="conclusion">Conclusion&lt;/h2>
 &lt;p>You could invest a significant effort in customizing and configuring your system.
 It is personal preference that ultimately matters.
-Let me know if you find this list helpful.&lt;/p></description></item><item><title>Hugo or Jekyll?</title><link>https://0xMehedi.github.io/p/2022/05/26/hugo-or-jekyll/</link><pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate><guid>https://0xMehedi.github.io/p/2022/05/26/hugo-or-jekyll/</guid><description>&lt;img src="https://0xMehedi.github.io/p/2022/05/26/hugo-or-jekyll/hugo-or-jekyll.png" alt="Featured image of post Hugo or Jekyll?" />&lt;!-- raw HTML omitted -->
+Let me know if you find this list helpful.&lt;/p></description></item><item><title>Hugo or Jekyll?</title><link>https://0xMehedi.github.io/p/2022/05/26/hugo-or-jekyll/</link><pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate><guid>https://0xMehedi.github.io/p/2022/05/26/hugo-or-jekyll/</guid><description>&lt;img src="https://0xMehedi.github.io/p/2022/05/26/hugo-or-jekyll/hugo-or-jekyll.png" alt="Featured image of post Hugo or Jekyll?" />&lt;!-- cspell:words Mehedi Hasan -->
 &lt;p>Websites built with Static Site Generator (SSG) are faster, more secure, and dev-friendly.
 They are also easier for SEO.
 It can be difficult to choose a suitable SSG because there are many.
@@ -553,7 +555,7 @@ More functionalities can be added via third-party plugins.&lt;/p>
 Choosing between the two is challenging.
 This website is built with Hugo, as you may have observed.
 How do you feel about Hugo and Jekyll?
-Which would you choose and why?&lt;/p></description></item><item><title>About</title><link>https://0xMehedi.github.io/about/</link><pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate><guid>https://0xMehedi.github.io/about/</guid><description>&lt;!-- raw HTML omitted -->
+Which would you choose and why?&lt;/p></description></item><item><title>About</title><link>https://0xMehedi.github.io/about/</link><pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate><guid>https://0xMehedi.github.io/about/</guid><description>&lt;!-- cspell:words Mehedi Hasan bogura lastmod -->
 &lt;p>Hi, I am Mehedi Hasan.&lt;/p>
 &lt;p>I grew up in a Bangladeshi family, and I live in Bogura, Bangladesh.&lt;/p>
 &lt;p>In my free time, I tinker with Free and Open Source Software.
