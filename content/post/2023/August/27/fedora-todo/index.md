@@ -13,6 +13,7 @@ image: fedora.jpg
 ---
 
 <!-- cspell:words Mehedi Hasan allowerasing appmenu devel flathub flatpak freeworld groupupdate gsettings gstreamer libav libdvdcss libva noarch nvdec nvenc openh264 rpmfusion setop touchpad upstreams vaapi vdpau -->
+<!-- markdownlint-disable MD033 -->
 
 Fedora Workstation comes with vanilla GNOME as its desktop environment, which is, in my opinion, a bit too bare-bones for everyday tasks.
 A few actions can be taken to improve this experience.
@@ -33,7 +34,7 @@ A pop-up window requesting a Name, Command, and Shortcut will appear.
 - In the Name field, enter **GNOME Terminal** as the name.
 - In the Command field, enter the command `gnome-terminal`.
 - In the Shortcut field, press the key combination that you want to use to launch GNOME Terminal.
-  For example, `Ctrl + Alt + T`.
+  For example, <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>.
 - Click the **Add** button.
 
 ### Change Hostname

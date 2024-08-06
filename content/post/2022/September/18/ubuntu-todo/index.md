@@ -13,6 +13,7 @@ image: ubuntu-22.04.jpg
 ---
 
 <!-- cspell:words Mehedi Hasan apport dconf dpkg gufw libdvdcss libdvd-pkg libfuse2 rhythmbox touchpad userspace zram -->
+<!-- markdownlint-disable MD033 -->
 
 Ubuntu is well configured out of the box.
 But there are a few things you can do to enhance your experience.
@@ -25,7 +26,7 @@ In this article we will look at what to do after installing the latest version o
 After installing Ubuntu, you should update it as soon as possible.
 Linux operates on a local database of available packages, which must be synced before you can install any software.
 
-To upgrade your system, open the terminal by pressing `Ctrl + Alt + T` and execute the following commands:
+To upgrade your system, open the terminal by pressing <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> and execute the following commands:
 
 ```shell
 sudo apt update
