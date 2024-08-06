@@ -26,7 +26,7 @@ Let's compare Hugo with Jekyll, shall we?
 ### Ease of Install
 
 - If you are a MacOS or Linux user, you can install Hugo with a single command.
-For instructions about how to install Hugo on other operating systems, follow the official [installation guide](https://gohugo.io/getting-started/installing).
+  For instructions about how to install Hugo on other operating systems, follow the official [installation guide](https://gohugo.io/getting-started/installing).
 
   - Command for MacOS:
     `brew install hugo`
@@ -35,33 +35,33 @@ For instructions about how to install Hugo on other operating systems, follow th
     `sudo apt install hugo`
 
 - Installing Jekyll is not as straight forward as installing Hugo.
-However, there is an excellent [installation guide](https://jekyllrb.com/docs/installation/) to get started with Jekyll.
+  However, there is an excellent [installation guide](https://jekyllrb.com/docs/installation/) to get started with Jekyll.
 
 ### External Dependencies
 
 - Unlike many other static site generators, Hugo does not require any external dependencies to run.
-All you need is the Hugo binary.
+  All you need is the Hugo binary.
 
 - Jekyll, on the other hand depends on Ruby.
-So, Ruby needs to be configured first in order to install Jekyll.
+  So, Ruby needs to be configured first in order to install Jekyll.
 
 ### Speed
 
 - Hugo is currently the fastest static site generator in the market.
-It can generate thousands of webpages in just a few seconds.
-That saves a lot of time when your site starts growing in size.
+  It can generate thousands of webpages in just a few seconds.
+  That saves a lot of time when your site starts growing in size.
 
 - Jekyll is at least 3 times slower than Hugo.
-That means Jekyll needs significantly more time than Hugo to build the same site.
+  That means Jekyll needs significantly more time than Hugo to build the same site.
 
 ### Flexibility
 
 - Hugo is very flexible in terms of content structure.
-It can be used to build various types of websites.
-For example, Blog, Documentation, Portfolio, and many others.
+  It can be used to build various types of websites.
+  For example, Blog, Documentation, Portfolio, and many others.
 
 - On the other hand, Jekyll is best known for its inbuilt features to help you create a fully featured blog.
-More functionalities can be added via third-party plugins.
+  More functionalities can be added via third-party plugins.
 
 ### Conclusion
 
