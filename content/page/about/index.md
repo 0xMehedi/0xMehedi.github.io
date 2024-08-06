@@ -21,6 +21,8 @@ Hi, I am Mehedi Hasan.
 
 I grew up in a Bangladeshi family, and I live in Bogura, Bangladesh.
 
-In my free time, I tinker with Free and Open Source Software. Aside from that, I love to go for long walks with friends to enjoy the beauty of nature.
+In my free time, I tinker with Free and Open Source Software.
+Aside from that, I love to go for long walks with friends to enjoy the beauty of nature.
 
-This blog aims to share my experience with anyone interested enough. So if you have any queries or recommendations, please feel free to email me.
+This blog aims to share my experience with anyone interested enough.
+So if you have any queries or recommendations, please feel free to email me.
